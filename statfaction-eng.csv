@@ -1,0 +1,207 @@
+age,gender,merital,n_children,education,nationality,religion,v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11
+31,Male,Married,0,Academic,Israel,Muslim,10,10,8,10,8,8,10,8,8,8,2
+34,Male,Married,1,High-School,Israel,Muslim,3,8,7,8,2,9,8,8,5,8,2
+30,Female,Married,0,Academic,Israel,Jewish,8,10,9,9,9,9,10,8,8,8,6
+33,Female,Married,2,Academic,Israel,Jewish,7,9,8,9,7,9,8,8,8,9,2
+34,Male,Married,2,Academic,Israel,Muslim,8,8,10,8,9,10,10,8,8,7,2
+41,Male,Married,2,Academic,Israel,Jewish,5,5,9,8,9,9,9,7,9,8,3
+29,Female,Married,1,Academic,Israel,Muslim,7,1,7,7,6,6,2,5,6,7,3
+32,Male,Married,1,Academic,Israel,Jewish,6,8,4,8,10,8,10,2,2,2,7
+33,Male,Married,1,Academic,Israel,Muslim,9,10,10,10,8,6,7,9,9,7,4
+38,Male,Married,2,Academic,Israel,Muslim,8,8,9,8,10,9,10,9,7,8,4
+32,Male,Married,1,Academic,Israel,Muslim,7,6,8,9,1,4,9,7,7,8,4
+38,Male,Married,3,Academic,Israel,Jewish,7,8,6,9,8,8,9,9,9,9,3
+29,Male,Single,0,Academic,Israel,Christian,10,10,10,10,10,10,10,10,10,10,3
+45,Male,Married,4,Academic,Israel,Jewish,9,9,10,10,10,10,10,8,10,9,5
+41,Male,Married,2,Academic,Israel,Muslim,7,8,8,9,8,5,8,8,8,8,6
+37,Male,Married,3,Academic,Israel,Druze,3,8,8,8,5,7,10,7,8,9,4
+26,Male,Single,0,Academic,Israel,Muslim,8,10,9,9,10,7,10,9,8,8,5
+42,Female,Married,2,Academic,Commonwealth of Nations,Non Religious,5,5,7,7,3,5,7,5,5,5,2
+40,Female,Married,4,Academic,Israel,Jewish,10,7,7,10,6,6,10,10,9,8,4
+35,Female,Devorced,1,Academic,Commonwealth of Nations,Jewish,8,7,8,9,7,8,10,10,9,10,4
+36,Male,Married,4,Academic,Israel,Muslim,9,9,9,9,10,7,9,7,1,5,6
+35,Female,Devorced,1,Academic,Commonwealth of Nations,Jewish,9,9,8,10,7,7,10,8,7,8,5
+30,Female,Married,1,Academic,Israel,Jewish,8,7,4,6,7,3,10,8,8,10,4
+28,Female,Married,1,Technical,Israel,Jewish,8,10,10,10,8,9,10,8,8,10,4
+31,Female,Single,0,Academic,Israel,Jewish,4,8,7,8,7,7,9,6,5,5,6
+29,Female,Married,2,Academic,Israel,Jewish,8,7,5,7,8,8,9,7,8,8,4
+38,Female,Married,3,Academic,Commonwealth of Nations,Jewish,5,7,7,6,5,5,5,5,2,2,7
+42,Female,Devorced,2,Academic,Commonwealth of Nations,Jewish,8,3,5,8,7,5,8,8,8,9,1
+32,Female,Married,2,Academic,Israel,Muslim,7,6,5,7,8,5,10,8,4,4,3
+32,Female,Married,2,Academic,Israel,Muslim,7,6,7,9,2,5,9,7,6,5,2
+30,Female,Married,1,Academic,Israel,Muslim,8,7,9,7,5,7,8,8,8,8,2
+32,Female,Married,2,Academic,Commonwealth of Nations,Jewish,9,6,6,9,8,7,10,8,8,8,2
+36,Female,Married,3,Academic,Israel,Jewish,8,10,9,10,6,9,10,8,10,10,2
+40,Female,Devorced,1,Academic,Europe,Non Religious,9,10,8,10,7,4,9,9,10,10,4
+35,Female,Married,2,Academic,Commonwealth of Nations,Jewish,8,6,7,7,8,8,9,6,7,7,6
+26,Female,Single,0,Academic,Israel,Muslim,1,1,1,1,8,7,9,1,1,1,7
+28,Female,Single,0,Academic,Israel,Jewish,7,6,5,7,7,7,7,7,10,6,5
+35,Female,Single,0,Academic,Israel,Muslim,10,8,7,9,8,9,10,9,9,9,2
+32,Female,Married,1,Academic,Commonwealth of Nations,Jewish,8,8,6,6,7,7,8,6,5,7,6
+30,Female,Devorced,1,Academic,Israel,Muslim,10,9,9,8,5,3,8,9,10,10,5
+51,Female,Married,2,Academic,Commonwealth of Nations,Jewish,6,6,6,6,9,2,9,6,5,4,4
+38,Female,Married,1,Academic,Israel,Muslim,8,10,10,10,8,8,10,8,6,6,2
+27,Female,Public,1,Academic,Israel,Jewish,8,9,5,9,7,7,8,7,7,7,4
+37,Male,Public,2,Academic,Israel,Jewish,7,4,2,3,9,7,10,4,10,9,4
+45,Male,Married,3,Academic,Israel,Jewish,7,10,10,10,7,6,10,7,6,6,6
+28,Male,Married,3,Academic,Israel,Jewish,8,9,10,10,8,9,10,9,9,9,6
+28,Female,Married,1,Academic,Israel,Jewish,7,5,7,7,7,4,9,7,6,6,4
+28,Male,Married,2,Academic,Israel,Muslim,7,4,5,9,8,5,8,6,8,4,5
+30,Female,Married,1,Academic,Commonwealth of Nations,Jewish,6,4,4,8,8,8,10,6,6,6,2
+26,Male,Single,0,Academic,Israel,Muslim,10,7,10,9,10,10,10,8,5,7,6
+33,Male,Single,0,Academic,Europe,Jewish,6,4,5,6,10,7,10,8,8,7,4
+50,Female,Single,1,Academic,Israel,Jewish,7,10,10,10,10,5,10,10,10,10,5
+39,Female,Married,3,Academic,Commonwealth of Nations,Jewish,4,6,5,5,8,5,9,7,6,5,6
+35,Male,Married,1,Academic,Israel,Druze,6,8,6,8,6,3,8,6,7,4,2
+42,Female,Married,4,Academic,USA,Jewish,7,7,2,10,9,10,9,9,10,10,2
+34,Male,Married,2,Academic,Israel,Muslim,8,10,9,8,10,10,10,8,8,8,4
+53,Female,Married,1,Academic,Commonwealth of Nations,Jewish,3,4,4,4,4,4,5,9,8,10,5
+38,Male,Married,1,Academic,Israel,Christian,8,5,9,9,8,8,10,7,8,10,4
+40,Male,Married,2,Academic,Israel,Jewish,7,7,7,9,7,7,9,9,8,8,2
+40,Male,Married,2,Academic,Israel,Jewish,7,7,7,9,7,7,9,9,8,8,2
+35,Female,Married,3,Academic,Israel,Christian,9,9,7,10,8,7,10,9,9,9,2
+42,Female,Long-Term Relationship,3,Academic,Israel,Jewish,9,8,1,7,9,9,9,7,9,1,7
+31,Female,Married,2,Academic,Israel,Muslim,3,8,8,5,10,9,10,1,1,1,7
+32,Male,Married,2,Academic,Israel,Muslim,6,1,8,7,10,10,10,2,2,1,5
+32,Male,Married,2,Academic,Israel,Muslim,6,1,8,7,10,10,10,2,2,1,5
+39,Female,Married,2,Academic,Commonwealth of Nations,Muslim,8,3,4,8,2,6,10,9,7,7,2
+48,Female,Married,0,Academic,Commonwealth of Nations,Non Religious,7,8,5,6,10,10,10,5,1,1,6
+27,Female,Single,0,Academic,Israel,Druze,10,2,10,10,10,10,10,10,9,9,2
+28,Female,Married,1,Academic,Israel,Muslim,8,7,9,10,7,8,10,10,10,9,1
+36,Female,Married,2,Academic,Israel,Jewish,6,6,5,5,9,8,9,5,5,4,5
+32,Male,Married,2,Academic,Israel,Muslim,10,8,8,10,10,8,10,10,10,8,6
+44,Female,Married,2,Academic,Commonwealth of Nations,Jewish,10,6,6,10,9,8,10,8,8,8,4
+27,Male,Married,0,Academic,Israel,Christian,10,7,10,10,6,10,10,8,8,8,1
+45,Female,Married,2,Academic,Israel,Jewish,7,5,9,9,9,8,9,7,7,7,6
+35,Male,Married,2,Academic,Israel,Muslim,9,3,9,9,9,9,9,6,6,6,4
+36,Male,Married,0,Academic,Israel,Muslim,7,7,8,8,9,9,10,8,9,9,1
+28,Female,Married,1,Academic,Israel,Jewish,8,8,9,9,7,7,9,9,9,9,3
+35,Female,Married,3,Academic,Israel,Jewish,10,10,10,10,7,5,10,10,10,10,3
+31,Female,Married,3,Academic,Israel,Muslim,5,3,6,7,7,7,9,7,8,8,2
+61,Female,Married,2,Academic,Israel,Muslim,10,10,10,10,10,10,10,10,10,10,1
+29,Female,Married,2,Academic,Israel,Jewish,5,4,6,8,6,5,8,9,8,9,4
+49,Female,Devorced,0,Technical,Israel,Jewish,7,10,10,9,8,8,8,7,8,7,2
+27,Female,Single,0,Academic,Commonwealth of Nations,Jewish,7,6,7,8,8,9,10,9,9,9,5
+26,Female,Married,0,High-School,Eastern,Christian,10,7,10,10,9,10,10,10,10,10,1
+43,Female,Married,4,High-School,Israel,Jewish,10,10,10,10,1,9,10,9,9,2,3
+31,Female,Married,1,Academic,Ethiopia,Jewish,9,8,9,10,7,10,10,10,10,10,2
+51,Female,Married,3,Academic,Israel,Jewish,10,3,9,10,7,9,10,6,6,8,6
+27,Female,Married,0,Academic,Israel,Jewish,10,4,4,8,5,5,7,7,8,7,4
+40,Female,Married,2,Technical,Israel,Jewish,10,10,10,10,7,9,10,5,1,6,7
+33,Male,Married,2,Academic,Israel,Arab,7,10,8,9,10,8,10,8,8,6,4
+35,Male,Single,0,Academic,Israel,Jewish,3,6,6,3,9,9,10,2,1,2,7
+37,Female,Married,2,Academic,Commonwealth of Nations,Jewish,9,9,10,8,9,8,10,8,9,8,3
+22,Female,Single,0,High-School,Israel,Jewish,10,4,10,7,10,2,10,8,9,7,4
+68,Female,Married,3,Technical,Israel,Jewish,7,1,8,6,10,1,10,7,10,10,4
+43,Female,Single,0,Academic,Israel,Jewish,8,8,5,5,4,4,6,6,9,8,3
+42,Female,Devorced,4,Technical,Israel,Jewish,10,10,10,10,4,10,8,10,10,10,7
+30,Female,Married,2,High-School,Israel,Jewish,8,8,10,10,10,8,10,8,10,10,3
+32,Female,Married,2,High-School,Israel,Jewish,8,9,8,10,10,9,10,8,10,8,6
+29,Female,Married,0,Technical,Commonwealth of Nations,Jewish,4,6,8,9,9,10,10,5,4,5,4
+26,Female,Single,0,Academic,Europe,Jewish,8,5,8,10,8,5,8,8,8,10,4
+24,Female,Public,0,Academic,Israel,Jewish,6,6,9,9,2,5,9,8,9,8,2
+26,Female,Single,0,Technical,Israel,Jewish,6,4,7,9,7,8,8,8,9,7,4
+28,Female,Married,1,Technical,Israel,Jewish,7,10,9,8,8,8,10,8,8,7,3
+37,Female,Married,2,Academic,Commonwealth of Nations,Jewish,9,10,8,10,10,10,10,8,10,9,2
+36,Female,Married,4,Technical,Commonwealth of Nations,Jewish,9,7,8,8,10,9,10,8,8,7,5
+40,Female,Married,3,Academic,Israel,Jewish,8,5,9,10,8,9,9,9,9,9,4
+53,Female,Married,0,Academic,Europe,Jewish,2,6,7,8,7,2,4,2,5,5,6
+50,Male,Married,5,Academic,Commonwealth of Nations,Jewish,3,4,5,5,9,9,10,8,8,6,2
+55,Male,Married,3,Academic,Commonwealth of Nations,Jewish,6,8,8,8,9,9,8,8,8,9,5
+60,Male,Married,3,Academic,Israel,Jewish,5,7,9,9,9,8,9,8,5,9,1
+45,Male,Married,3,Academic,Israel,Jewish,10,10,10,10,7,7,7,7,7,5,5
+54,Female,Widowed,2,Academic,Commonwealth of Nations,Christian,8,8,7,9,4,8,10,8,3,9,5
+47,Male,Married,3,Academic,Israel,Jewish,6,7,9,7,9,9,7,7,6,5,6
+50,Female,Married,2,Academic,Israel,Muslim,9,9,9,9,7,7,7,8,7,7,2
+50,Female,Married,2,Academic,Commonwealth of Nations,Jewish,9,9,9,9,10,10,10,8,8,8,2
+37,Female,Married,2,Academic,Commonwealth of Nations,Jewish,10,3,6,8,9,7,10,10,10,10,2
+53,Female,Widowed,3,Academic,Israel,Jewish,9,7,6,8,7,6,9,8,9,9,4
+53,Female,Married,5,Academic,Israel,Jewish,5,7,8,8,7,3,10,9,9,7,4
+41,Female,Public,3,Academic,Israel,Jewish,7,7,7,7,7,7,8,8,9,9,4
+47,Female,Devorced,3,Academic,Commonwealth of Nations,Jewish,7,4,5,5,9,6,7,4,5,5,2
+55,Female,Married,2,Academic,Israel,Jewish,9,7,6,9,8,9,9,9,8,7,1
+38,Female,Married,3,Academic,Israel,Jewish,7,8,8,8,7,8,8,8,5,7,2
+48,Female,Married,4,Academic,Commonwealth of Nations,Jewish,9,7,9,10,6,7,8,9,10,9,3
+40,Male,Married,2,Technical,Commonwealth of Nations,Jewish,10,10,10,10,9,10,10,3,3,2,7
+43,Female,Married,3,Academic,Commonwealth of Nations,Jewish,5,3,8,3,7,6,9,6,4,7,4
+42,Female,Married,2,Academic,Commonwealth of Nations,Jewish,8,6,7,7,7,6,5,6,7,6,3
+44,Female,Married,3,Academic,Israel,Jewish,3,5,4,7,3,7,8,7,3,3,5
+38,Male,Married,1,Academic,Israel,Christian,7,9,8,8,8,7,7,6,7,6,3
+55,Female,Devorced,2,Academic,Commonwealth of Nations,Jewish,7,4,7,7,1,7,5,5,5,5,5
+43,Female,Married,4,Academic,Commonwealth of Nations,Christian,7,8,7,7,7,6,8,6,4,5,2
+46,Female,Married,2,Academic,Commonwealth of Nations,Christian,8,5,8,9,4,9,9,8,9,9,6
+48,Male,Married,3,Academic,Israel,Muslim,9,7,8,8,8,9,9,7,7,7,3
+45,Female,Devorced,2,Academic,Israel,Muslim,8,9,9,9,8,8,7,7,7,9,4
+39,Female,Single,0,Academic,Israel,Jewish,8,9,10,10,9,9,10,9,3,5,7
+44,Female,Married,3,Academic,Commonwealth of Nations,Jewish,9,8,5,6,7,7,8,5,4,7,6
+43,Female,Married,2,Academic,Israel,Jewish,10,10,10,10,9,9,10,10,10,9,2
+48,Female,Devorced,2,Academic,Commonwealth of Nations,Jewish,5,3,8,7,8,7,9,6,4,3,4
+60,Female,Married,2,Academic,Commonwealth of Nations,Jewish,8,9,8,6,7,5,9,8,7,6,4
+44,Female,Single,0,Academic,Commonwealth of Nations,Jewish,3,5,7,7,9,10,10,6,6,6,4
+45,Female,Devorced,2,Academic,Commonwealth of Nations,Christian,4,5,10,8,10,5,10,5,7,5,2
+49,Female,Married,3,Academic,Commonwealth of Nations,Jewish,10,10,10,10,10,9,10,9,8,8,2
+46,Female,Married,3,Academic,Commonwealth of Nations,Jewish,10,10,8,10,8,8,9,7,7,7,6
+43,Male,Married,2,Academic,Commonwealth of Nations,Jewish,7,10,10,10,8,6,10,9,9,9,7
+53,Female,Married,4,Academic,Israel,Muslim,8,8,10,10,7,7,9,8,9,10,4
+40,Male,Married,4,Academic,Israel,Christian,9,8,9,9,6,8,9,8,10,10,3
+45,Male,Married,2,Academic,Commonwealth of Nations,Non Religious,5,7,6,5,5,8,9,6,1,3,5
+48,Female,Married,2,Academic,Commonwealth of Nations,Jewish,9,9,8,10,7,8,9,8,7,7,5
+46,Female,Married,5,Academic,Israel,Jewish,7,8,9,9,6,6,8,8,9,4,5
+40,Female,Married,3,Academic,Commonwealth of Nations,Jewish,10,10,10,10,10,10,10,8,9,10,1
+55,Female,Devorced,2,Academic,Israel,Jewish,8,10,9,10,1,8,10,10,10,10,2
+45,Female,Devorced,2,Academic,Commonwealth of Nations,Jewish,10,9,9,8,10,10,10,7,8,4,6
+50,Male,Devorced,3,Academic,Commonwealth of Nations,Jewish,7,6,6,6,9,8,10,6,6,6,3
+47,Female,Married,3,Academic,Eastern,Jewish,7,8,7,8,3,3,8,8,7,7,2
+45,Female,Married,2,Academic,Commonwealth of Nations,Jewish,8,9,7,9,8,7,10,7,9,5,2
+43,Female,Married,3,Academic,Commonwealth of Nations,Jewish,7,8,8,9,8,9,10,8,8,10,5
+49,Female,Long-Term Relationship,2,Academic,Israel,Jewish,10,10,10,10,10,10,10,9,9,9,2
+40,Female,Married,2,Technical,Commonwealth of Nations,Jewish,10,6,9,10,10,8,10,10,10,10,2
+52,Male,Married,3,Academic,Israel,Muslim,9,7,7,9,9,7,7,7,7,9,4
+61,Female,Married,3,Academic,Commonwealth of Nations,Jewish,8,8,8,8,8,8,9,9,8,8,6
+54,Female,Married,6,Academic,Israel,Jewish,8,10,10,10,10,9,10,9,9,9,6
+47,Female,Married,4,Academic,Commonwealth of Nations,Jewish,8,8,8,8,8,8,10,8,8,8,2
+41,Female,Devorced,3,Academic,Commonwealth of Nations,Jewish,10,8,10,10,9,9,10,9,10,10,4
+46,Female,Married,3,Academic,Commonwealth of Nations,Jewish,9,7,9,9,8,9,9,9,9,9,3
+45,Female,Married,1,Academic,Commonwealth of Nations,Jewish,5,7,8,8,6,5,9,8,9,9,2
+43,Male,Married,1,Academic,Commonwealth of Nations,Jewish,8,4,3,7,8,10,10,7,7,9,5
+40,Female,Devorced,3,Academic,Israel,Jewish,10,8,10,10,10,5,10,10,10,8,3
+45,Female,Married,2,Academic,Commonwealth of Nations,Jewish,9,8,8,8,8,9,9,9,8,9,4
+48,Female,Married,2,Academic,Israel,Jewish,9,10,9,10,9,10,10,10,10,10,2
+45,Female,Married,4,Academic,Commonwealth of Nations,Jewish,8,3,3,8,8,6,8,6,5,7,2
+42,Male,Married,4,Academic,Israel,Christian,8,8,8,9,8,9,9,9,9,8,3
+47,Male,Married,4,Academic,Israel,Muslim,10,10,10,10,10,10,10,10,10,10,2
+49,Female,Devorced,2,Academic,Israel,Jewish,10,10,10,10,8,9,10,7,10,10,6
+48,Female,Married,3,Academic,Israel,Jewish,9,9,9,9,9,9,10,8,8,9,2
+38,Female,Married,5,Academic,Israel,Muslim,7,7,7,7,7,7,7,7,7,3,2
+48,Female,Married,1,Academic,Commonwealth of Nations,Christian,7,7,5,7,7,5,10,7,1,2,3
+38,Female,Single,0,Technical,Commonwealth of Nations,Jewish,10,10,10,10,10,10,10,10,10,10,3
+41,Female,Married,4,Academic,Commonwealth of Nations,Jewish,8,5,3,10,8,8,10,8,10,7,3
+50,Female,Married,3,Academic,Commonwealth of Nations,Jewish,6,7,6,6,10,7,7,6,4,4,7
+47,Female,Married,1,Academic,Commonwealth of Nations,Jewish,10,10,10,10,8,8,8,10,10,10,2
+42,Female,Married,4,Academic,Israel,Muslim,5,3,5,6,1,4,8,5,6,6,6
+46,Male,Long-Term Relationship,3,High-School,Commonwealth of Nations,Jewish,9,8,5,10,8,8,9,10,10,10,4
+41,Male,Married,3,Academic,Israel,Christian,8,7,5,7,9,8,8,9,8,8,2
+50,Female,Married,3,Academic,Israel,Jewish,7,3,7,6,7,9,9,6,5,4,2
+42,Female,Married,2,Technical,Israel,Jewish,6,9,7,8,6,8,8,8,7,6,2
+45,Male,Married,4,Technical,Israel,Christian,7,9,9,9,9,10,10,6,8,8,6
+43,Male,Married,3,Academic,Israel,Muslim,7,6,7,10,8,8,10,7,6,5,2
+43,Male,Married,3,Academic,Israel,Muslim,7,6,7,10,8,8,10,7,6,5,2
+55,Female,Married,6,Academic,Israel,Jewish,10,9,8,9,9,9,9,9,9,9,2
+49,Female,Married,1,Academic,Israel,Jewish,10,9,9,10,10,10,10,10,10,10,4
+53,Female,Married,3,High-School,Israel,Jewish,8,10,8,10,10,10,9,10,10,10,2
+56,Female,Married,2,Academic,Israel,Jewish,9,9,8,10,10,9,10,8,8,9,4
+39,Male,Married,4,Academic,Israel,Muslim,10,10,10,10,10,10,10,10,9,9,2
+48,Female,Married,3,Technical,Israel,Jewish,8,9,9,10,1,8,9,10,10,10,2
+43,Male,Married,2,Academic,Israel,Jewish,9,7,8,9,9,7,9,8,9,9,6
+39,Female,Married,3,Academic,Israel,Christian,8,6,6,7,9,8,8,7,8,8,3
+40,Female,Devorced,3,Academic,Commonwealth of Nations,Jewish,8,8,9,9,9,9,9,7,7,4,4
+46,Female,Married,4,Academic,Commonwealth of Nations,Jewish,10,10,9,10,8,6,10,10,10,10,2
+37,Female,Married,2,Technical,Israel,Jewish,8,8,10,10,9,10,10,10,10,10,2
+46,Female,Married,3,High-School,Eastern,Jewish,8,8,8,8,8,7,8,8,8,8,5
+56,Female,Long-Term Relationship,0,Academic,Commonwealth of Nations,Jewish,5,4,7,7,9,8,9,8,8,9,2
+45,Female,Long-Term Relationship,0,Academic,Israel,Jewish,10,10,7,9,10,10,10,7,8,7,2
+45,Female,Married,3,Academic,Israel,Jewish,6,8,10,10,7,8,8,8,7,7,2
+37,Female,Married,2,Technical,Commonwealth of Nations,Jewish,10,10,10,10,10,10,10,8,8,8,6
+43,Female,Married,3,Academic,Israel,Jewish,4,4,9,9,8,8,8,8,5,5,3
+44,Female,Married,1,Academic,Commonwealth of Nations,Jewish,9,7,5,10,5,9,9,7,9,7,4
+54,Male,Married,2,Academic,Israel,Christian,7,8,9,9,8,8,8,9,8,8,2
